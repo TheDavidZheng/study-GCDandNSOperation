@@ -1,0 +1,2 @@
+# study-GCDandNSOperation
+分别用GCD方式和NSOperation方式实现多线程下载
